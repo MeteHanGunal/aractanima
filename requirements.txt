@@ -1,0 +1,6 @@
+tensorflow~=2.16.1
+gast~=0.5.4
+astunparse~=1.6.3
+termcolor~=2.4.0
+numpy~=1.26.4
+pillow~=10.3.0
